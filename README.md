@@ -48,6 +48,7 @@ or
     node app.js
 
 ## Further options (todo?)
+- Add NPM step to only run named test (included as param)
 - Add a linter (JSHint, ESHint) to the test step
 - Create alternative QUnit or Mocha setup / examples
 - Use Grunt or Gulp task runners? (In my opinion not needed)
