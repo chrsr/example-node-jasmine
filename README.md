@@ -4,7 +4,7 @@ Node.js + Node Package Manager + Jasmine getting started app.
 ## Installation
 Install NodeJS + NPM:
 
-https://nodejs.org/
+Download the installer from: https://nodejs.org
 
 Download this Project:
 
