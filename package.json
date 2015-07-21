@@ -1,6 +1,6 @@
 {
-  "name": "jstest",
-  "version": "1.0.0",
+  "name": "example-node-jasmine",
+  "version": "0.0.1",
   "main": "app.js",
   "scripts": {
     "test": "node test-runner.js",
