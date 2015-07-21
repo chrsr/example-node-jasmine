@@ -46,3 +46,8 @@ This is where you will write your unit tests. Four working examples have been pr
 or
 
     node app.js
+
+## Further options (todo?)
+- Add a linter (JSHint, ESHint) to the test step
+- Create alternative QUnit or Mocha setup / examples
+- Use Grunt or Gulp task runners? (In my opinion not needed)
