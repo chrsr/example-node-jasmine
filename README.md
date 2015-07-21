@@ -1,13 +1,19 @@
 # Example Node Jasmine app
 Node.js + NPM + Jasmine getting started environment.
 
-## Install dependencies
+## Installation
+Download this Project:
 
-1. Install NodeJS + NPM.
+    git clone git@github.com:chrsr/example-node-jasmine.git
 
-2. Once you have NodeJS + NPM run the following:
+Install NodeJS + NPM:
 
-    npm i
+https://nodejs.org/
+
+Install using Node Package Manager:
+
+    cd example-node-jasmine/
+    npm install
 
 ## Run tests
 
