@@ -2,15 +2,15 @@
 Node.js + Node Package Manager + Jasmine getting started app.
 
 ## Installation
-Install NodeJS + NPM:
+#### Install NodeJS + NPM:
 
 Download the installer from: https://nodejs.org
 
-Download this Project:
+#### Clone this project:
 
     git clone git@github.com:chrsr/example-node-jasmine.git
 
-Install project dependencies using NPM:
+####Install project dependencies using NPM:
 
     cd example-node-jasmine/
     npm install
