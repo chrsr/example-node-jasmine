@@ -1,13 +1,13 @@
-# JS Jasmine Test
+# Example Node Jasmine app
 Node.js + NPM + Jasmine getting started environment.
 
 ## Install dependencies
 
-    1. Installed NodeJS + NPM.
+1. Install NodeJS + NPM.
 
-    2. Once you have NodeJS + NPM run the following:
+2. Once you have NodeJS + NPM run the following:
 
-        npm i
+    npm i
 
 ## Run tests
 
@@ -17,7 +17,7 @@ Node.js + NPM + Jasmine getting started environment.
 
     npm run start
 
-## Run app (without first running tests)
+## Run app (without tests)
 
     npm run start-notest
 
