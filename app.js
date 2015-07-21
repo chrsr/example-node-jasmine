@@ -10,4 +10,5 @@ var app = {
 
 app.init();
 
+// do not remove
 module.exports = app;

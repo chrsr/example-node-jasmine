@@ -1,7 +1,9 @@
 # Example Node Jasmine app
-Node.js + Node Package Manager + Jasmine getting started app.
+Node.js + Node Package Manager (NPM) + Jasmine getting started app.
 
 ## Installation
+To run this app you will need to install NodeJS and then the app dependencies using NPM.
+
 #### 1. Install NodeJS + NPM:
 
 Download and run the installer from: https://nodejs.org
@@ -14,6 +16,18 @@ Download and run the installer from: https://nodejs.org
 
     cd example-node-jasmine/
     npm install
+
+## Getting started
+Modify the following files to begin writing your app!
+
+#### app.js
+This is where your application code is written. After reviewing the example code,
+you can delete everything except for the last line that exports your app global to the spec:
+
+    module.exports = app;
+
+#### app-spec.js
+This is where you will write your unit tests. Four working examples have been provided.
 
 ## Running options
 
